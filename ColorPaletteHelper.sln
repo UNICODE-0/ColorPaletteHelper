@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPaletteHelper", "ColorPaletteHelper\ColorPaletteHelper.csproj", "{221CF922-0265-48C6-B4B5-B4992DFBB0F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{221CF922-0265-48C6-B4B5-B4992DFBB0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221CF922-0265-48C6-B4B5-B4992DFBB0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221CF922-0265-48C6-B4B5-B4992DFBB0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221CF922-0265-48C6-B4B5-B4992DFBB0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EAF6ABF-E4C1-4C72-BAAD-E52D5FBFB9CD}
+	EndGlobalSection
+EndGlobal
