@@ -12,4 +12,4 @@ The script will:
 - Rename all sprites in the format:
 - bg_{color}_{type}, where {type} is the name of the sprite’s original directory.
 
-<img width="616" height="502" alt="image" src="https://github.com/user-attachments/assets/1f748f21-ceb6-4539-87e1-024abbe3057a" />
+<img width="519" height="404" alt="image" src="https://github.com/user-attachments/assets/40cee2c6-0766-4017-8b64-eac79ec32452" />
