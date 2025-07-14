@@ -1,4 +1,4 @@
-<h1>Tool for Bulk Renaming Images Based on Their Dominant Color</h1>
+# Tool for Bulk Renaming Images Based on Their Dominant Color
 
 How to use:
 - Select a directory containing your images.
